@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>About Me</title>
+	<link rel="stylesheet"href=styles.css">
+	</head>
+	
+	<body>
+		<header>
+			<h1>About Me</h1>
+			<nav>
+				<a href="index.html">Home</a>
+				<a href="about.html">About Me</a>
+			</nav>
+		</header>
+		<section>
+			<h2>My Background</h2>
+			<p>I enjoy alot and its cool in all.I also enjoy playing whatever games.
+			</p>
+
+		<h2>My favourite Image</h2>
+		<img src="monster.jpg" width="200" alt="One of my all time favourite animation in Nickeloden>
+		</section>
+<section>
+<h2>Contact Me</h2>
+<form>
+	<label for="name"> Name: </label>
+	<input type="text" id="name" name"name"> <br><br>
+	<label for="email"> Email: </label>
+	<input type="text" id="email" name="email"> <br><br>
+	<input type="submit" value="Send Message">
+</form>
+</section>
+<footer>
+<p> &copy;2025 K.P Jackson</p>
+</footer>
+	</body>
+</html>
